@@ -1,4 +1,4 @@
-// Task: Given a number. Check if it is negative or not. Output this information to the console.
+// Task N1: Given a number. Check if it is negative or not. Output this information to the console.
 
 import java.util.Scanner;
 
