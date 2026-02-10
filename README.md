@@ -1,4 +1,4 @@
-# Java Solutions – code.mu Tasker / Stager
+# Java Exercises - code.mu
 
 My solutions to the Java programming exercises from  
 https://code.mu/en/java/tasker/stager/
