@@ -5,18 +5,6 @@ https://code.mu/en/java/tasker/stager/
 
 The tasks are organized by difficulty levels (Level 1 → Level 10), starting from basic syntax and going up to more advanced topics (collections, OOP patterns, algorithms, etc.).
 
-## Structure of the repository
-java-code-mu-solutions/
-├── level-1/
-│   ├── 1.1/
-│   │   └── TaskName.java          
-│   ├── 1.2/
-│   └── ...
-├── level-2/
-├── ...
-├── level-10/
-└── README.md
-
 ## How I'm solving them
 
 - Trying to write clean, readable code with
