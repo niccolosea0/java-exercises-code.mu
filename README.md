@@ -14,7 +14,7 @@ The tasks are organized by difficulty levels (Level 1 → Level 10), starting fr
 
 ## Progress
 
-- [ ] Level 1  
+- [x] Level 1  
 - [ ] Level 2  
 - [ ] Level 3  
 - [ ] Level 4  
