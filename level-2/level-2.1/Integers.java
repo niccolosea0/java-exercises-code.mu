@@ -1,3 +1,8 @@
+// Given an array of integers:
+// 
+// int[] arr = {1, 2, 3, 4, 5};
+// Print the elements of this array to the console.
+
 public class Integers {
     public static void main(String[] args) {
          
