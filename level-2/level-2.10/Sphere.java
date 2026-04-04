@@ -2,7 +2,7 @@
 // float r = 10.3;
 // Get the volume and surface area of ​​this sphere.
 
-class Main {
+public class Sphere {
     
     public static final double PI = 3.14;
     
